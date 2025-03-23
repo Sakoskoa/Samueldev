@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/samuel amaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel amaral" height="30" width="40" /></a>
 <a href="https://instagram.com/samuel.d3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel.d3v" height="30" width="40" /></a>
-<a href="[https://discord.gg/Sakoskoa](https://discord.gg/5H8naNyA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sakoskoa#9256" height="30" width="40" /></a>
+<a href="(https://discord.gg/5H8naNyA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sakoskoa#9256" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
