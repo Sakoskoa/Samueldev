@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Samuel</h1>
-<h3 align="center">Sou um desenvolvedor back end</h3>
+<h3 align="center">Sou um desenvolvedor backend querendo uma oportunidade no mercado de trabalho, atualmente estou no 4 período na faculdade de Engenharia de Software na Unopar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakoskoa&label=Profile%20views&color=0e75b6&style=flat" alt="sakoskoa" /> </p>
 
@@ -9,7 +9,6 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://dev.to/samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samuel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuel amaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel amaral" height="30" width="40" /></a>
 <a href="https://instagram.com/samuel.d3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel.d3v" height="30" width="40" /></a>
 <a href="https://discord.gg/Sakoskoa#9256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sakoskoa#9256" height="30" width="40" /></a>
