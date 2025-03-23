@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Samuel</h1>
-<h3 align="center">Sou um desenvolvedor backend querendo uma oportunidade no mercado de trabalho, atualmente estou no 4 período na faculdade de Engenharia de Software na Unopar</h3>
+<h3 align="center">Sou um desenvolvedor backend querendo uma oportunidade no mercado de trabalho, atualmente estou no 4 período no curso de Engenharia de Software na Unopar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakoskoa&label=Profile%20views&color=0e75b6&style=flat" alt="sakoskoa" /> </p>
 
